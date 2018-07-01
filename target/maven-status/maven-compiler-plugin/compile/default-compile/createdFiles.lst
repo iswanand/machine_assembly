@@ -1,0 +1,5 @@
+com\machinetest\app\MachineAssembler.class
+com\machinetest\app\AssemblyWorker.class
+AssemblyTest.class
+com\machinetest\app\bean\AssemblyBean.class
+com\machinetest\app\AssemblyMain.class
